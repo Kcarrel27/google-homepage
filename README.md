@@ -1,0 +1,1 @@
+I will be attempting to deconstruct the Google homepage and rebuild it using the CSS and HTML elements being learned throughout this lesson.
